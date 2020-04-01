@@ -26,6 +26,7 @@ dependencies:
   circular_profile_avatar: ^1.0.6
   shape_of_view: ^1.0.2
   flutter_styled_toast: ^1.2.1
+  flutter_gradient_colors: ^1.0.0
 
 dev_dependencies:
   flutter_test:
@@ -40,8 +41,6 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/logo.png
-    - assets/images/bg.jpg
-    - assets/images/useravatar.svg
     - assets/images/bgsplash.png
     - assets/images/login_img.png
 #      - assets/images/food1.png
